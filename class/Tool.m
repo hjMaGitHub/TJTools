@@ -7,13 +7,6 @@
 //
 
 #import "Tool.h"
-#import <sys/utsname.h>
-#import "YYLabel.h"
-#import "UIImage+GIF.h"
-#import "IDTool.h"
-#import "PersonalDetailsVC.h"
-#import "LoginVC.h"
-#import "ZHNoDataVC.h"
 
 @implementation Tool
 
